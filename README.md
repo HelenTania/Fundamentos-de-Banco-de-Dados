@@ -1,0 +1,7 @@
+#FUNDAMENTOS DE BANCO DE DADOS
+
+ #Iniciando aula 15/08/2024
+ 
+ - Comandos Basicos
+ - CREATE DATABASE
+ - CREATE TABLE
